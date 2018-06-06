@@ -1,7 +1,23 @@
 * {margin: 0px; padding: 0px;}
-a {text-decoration: none;}
+a {text-decoration: none; color: #fff;}
 .clear {clear: both;}
+ul {list-style: none;}
+
 .header {width: 100%; height: 40px; background: #333;}
+.content-ul {width: ; height: 40px; line-height: 40px; float: left;}
+.content-ul li {float: left;}
+.content-ul li a {color: #b0b0b0; font-size: 14px;}
+.content-ul li a:hover {color: #fff;}
+.content-ul li span {color: #424242; font-size: 14px; margin: 0px 5px;}
+
+.content-ul-1 {float: right; line-height: 40px;}
+.content-ul-1 li {float: left;}
+.content-ul-1 li a {color: #b0b0b0; font-size: 14px;}
+.content-li-1 a:hover {color: #fff;}
+.content-ul-1 li span {color: #424242; font-size: 14px; margin: 0px 5px;}
+.content-li-2 {width: 90px; height: 40px; margin: 0 5px; text-align: center;  background: #424242;}
+.content-li-2:hover {background: #fff;}
+.content-li-2:hover a {color: #ff6700;}
 .content-top {width: 100%; margin-bottom: 15px;}
 
 
@@ -82,8 +98,13 @@ a {text-decoration: none;}
 .content-bottom-pic5 {width: 1226px; height: 119px; background: url(../img/longAD7.jpg); margin-bottom: 10px;}
 
 
-
-
+.content-bottom-menu2 {width: 1226px; height: 50px; background: #fff; margin: 12px 0;}
+.content-bottom-shop3 {width: 1226px; height: 300px;}
+.content-bottom-shop3-1 {width: 235px; height: 300px; float: left; margin-right: 12.7px; background: pink;}
+.content-bottom-shop3-2 {width: 235px; height: 300px; float: left; margin-right: 12.7px; background: #fff;}
+.content-bottom-shop3-3 {width: 235px; height: 300px; float: left; margin-right: 12.7px; background: #fff;}
+.content-bottom-shop3-4 {width: 235px; height: 300px; float: left; margin-right: 12.7px; background: #fff;}
+.content-bottom-shop3-5 {width: 235px; height: 300px; float: left; background: #fff;}
 
 .footer-top {width: 100%; height: 100px;}
 
