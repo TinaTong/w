@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{margin: 0px; padding: 0px;}
 a{text-decoration: none;}
 .clear{clear: both;}
@@ -47,3 +48,120 @@ a{text-decoration: none;}
 .content-bottom-shop-bottom4{float: left; background: url(../img/buy/手机8.jpg);}
 
 .content-bottom-pic{width: 1226px; height: 119px; background: url(../img/longAD2.jpg); margin-bottom: 10px;}
+=======
+* {margin: 0px; padding: 0px;}
+a {text-decoration: none; color: #fff;}
+.clear {clear: both;}
+ul {list-style: none;}
+
+.header {width: 100%; height: 40px; background: #333;}
+.content-ul {width: ; height: 40px; line-height: 40px; float: left;}
+.content-ul li {float: left;}
+.content-ul li a {color: #b0b0b0; font-size: 14px;}
+.content-ul li a:hover {color: #fff;}
+.content-ul li span {color: #424242; font-size: 14px; margin: 0px 5px;}
+
+.content-ul-1 {float: right; line-height: 40px;}
+.content-ul-1 li {float: left;}
+.content-ul-1 li a {color: #b0b0b0; font-size: 14px;}
+.content-li-1 a:hover {color: #fff;}
+.content-ul-1 li span {color: #424242; font-size: 14px; margin: 0px 5px;}
+.content-li-2 {width: 90px; height: 40px; margin: 0 5px; text-align: center;  background: #424242;}
+.content-li-2:hover {background: #fff;}
+.content-li-2:hover a {color: #ff6700;}
+.content-top {width: 100%; margin-bottom: 15px;}
+
+
+.content {width: 1226px; margin: 0 auto;}
+.content-menu {width: 1226px; height: 90px; background: pink; margin: 10px auto;}
+.content-pic {width: 1226px; height: 460px; background: url(../img/mi.jpg);}
+.content-shop {width: 1226px; height: 170px; margin-top: 10px;}
+.content-shop-1 {width: 248px; height: 170px; background: #ccc; float: left; margin-right: 10px;}
+.content-shop-2 {width: 316px; height: 170px; background: url(../img/midAD1.jpg); float: left; margin-right: 10px;}
+.content-shop-3 {width: 316px; height: 170px; background: url(../img/midAD2.jpg); float: left; margin-right: 10px;}
+.content-shop-4 {width: 316px; height: 170px; background: url(../img/midAD3.jpg); float: left;}
+.content-mi {width: 1226px; margin: 0 auto;}
+.content-mi-shop {width: 1226px; height: 400px; margin: 10px auto;}
+.content-mi-shop div {width: 237px; height: 400px; margin-right: 0 auto;}
+.content-mi-shop-1 {float: left; margin-right: 10px; background: pink;}
+.content-mi-shop-2 {float: left; margin-right: 10px; background: pink;}
+.content-mi-shop-3 {float: left; margin-right: 10px; background: pink;}
+.content-mi-shop-4 {float: left; margin-right: 10px; background: pink;}
+.content-mi-shop-5 {float: left; background: pink;}
+.content-mi-pic {width: 1226px; height: 119px; background: url(../img/longAD1.jpg); margin: 0 auto;}
+
+/*主体内容下*/
+/*.content-bottom-1 {width: 1226px; margin: 10px auto; padding: 10px 0px;}*/
+.content-bottom {width: 100%; background: #ccc;}
+.content-bottom-menu {width: 1226px; height: 50px; background: blue; margin-bottom: 10px;}
+.content-bottom-shop {width: 1226px; height: 614px; background: #fff; margin-bottom: 10px;}
+.content-bottom-shop-1 {width: 234px; height: 614px; background: url(../img/buy/手机AD.jpg); float: left; margin-right: 12px;}
+
+.content-bottom-shop-2 {width: 980px; height: 614px; float: left;}
+
+.content-bottom-shop-top {width: 980px; height: 300px; margin-bottom: 14px;background: green;}
+.content-bottom-shop-top div {width: 237.5px; height: 300px; background: pink;}
+.content-bottom-shop-top1 {margin-right: 10px; float: left; background: url(../img/buy/手机1.jpg);}
+.content-bottom-shop-top2 {margin-right: 10px; float: left; background: url(../img/buy/手机2.jpg);}
+.content-bottom-shop-top3 {margin-right: 10px; float: left; background: url(../img/buy/手机3.jpg);}
+.content-bottom-shop-top4 {float: left; background: url(../img/buy/手机4.jpg);}
+
+.content-bottom-shop-bottom {width: 980px; height: 300px; background: green}
+.content-bottom-shop-bottom div {width: 237.5px; height: 300px; background: pink;}
+.content-bottom-shop-bottom1 {margin-right: 10px; float: left; background: url(../img/buy/手机5.jpg);}
+.content-bottom-shop-bottom2 {margin-right: 10px; float: left; background: url(../img/buy/手机6.jpg);}
+.content-bottom-shop-bottom3 {margin-right: 10px; float: left; background: url(../img/buy/手机7.jpg);}
+.content-bottom-shop-bottom4 {float: left; background: url(../img/buy/手机8.jpg);}
+
+.content-bottom-pic {width: 1226px; height: 119px; background: url(../img/longAD2.jpg); margin-bottom: 10px;}
+
+.content-bottom-menu1 {width: 1226px; height: 50px; margin: 0 auto; background: #fff;}
+
+.content-bottom-tv1 {width: 1226px; height: 300px; margin-top: 10px;}
+.content-bottom-a {width: 235px; height: 300px; float: left; background: url(../img/buy/家电AD1.jpg); margin-right: 12.7px;}
+.content-bottom-1 {width: 235px; height: 300px; float: left; background: #fff; margin-right: 12.7px;}
+.content-bottom-2 {width: 235px; height: 300px; float: left; background: #fff; margin-right: 12.7px;}
+.content-bottom-3 {width: 235px; height: 300px; float: left; background: #fff; margin-right: 12.7px;}
+.content-bottom-4 {width: 235px; height: 300px; float: left; background: #fff;}
+
+.content-bottom-tv2 {width: 1226px; height: 300px; margin: 10px auto;}
+.content-bottom-b {width: 235px; height: 300px; float: left; background: url(../img/buy/家电AD2.jpg); margin-right: 12.7px;}
+.content-bottom-5 {width: 235px; height: 300px; float: left; background: #fff; margin-right: 12.7px;}
+.content-bottom-6 {width: 235px; height: 300px; float: left; background: #fff; margin-right: 12.7px;}
+.content-bottom-7 {width: 235px; height: 300px; float: left; background: #fff; margin-right: 12.7px;}
+.content-bottom-8 {width: 235px; height: 300px; float: left;}
+.content-bottom-8-top {width: 235px; height: 145px; background: #fff;}
+.content-bottom-8-bottom {width: 235px; height: 145px; background: #fff; margin-top: 10px;}
+
+.content-bottom-c {width: 235px; height: 300px; float: left; background: url(../img/buy/智能AD1.jpg); margin-right: 12.7px;}
+.content-bottom-d {width: 235px; height: 300px; float: left; background: url(../img/buy/智能AD2.jpg); margin-right: 12.7px;}
+.content-bottom-e {width: 235px; height: 300px; float: left; background: url(../img/buy/搭配AD1.jpg); margin-right: 12.7px;}
+.content-bottom-f {width: 235px; height: 300px; float: left; background: url(../img/buy/搭配AD2.jpg); margin-right: 12.7px;}
+.content-bottom-g {width: 235px; height: 300px; float: left; background: url(../img/buy/配件AD1.jpg); margin-right: 12.7px;}
+.content-bottom-h {width: 235px; height: 300px; float: left; background: url(../img/buy/配件AD2.jpg); margin-right: 12.7px;}
+.content-bottom-i {width: 235px; height: 300px; float: left; background: url(../img/buy/周边AD1.jpg); margin-right: 12.7px;}
+.content-bottom-j {width: 235px; height: 300px; float: left; background: url(../img/buy/周边AD2.jpg); margin-right: 12.7px;}
+
+.content-bottom-pic1 {width: 1226px; height: 119px; background: url(../img/longAD3.jpg); margin-bottom: 10px;}
+.content-bottom-pic2 {width: 1226px; height: 119px; background: url(../img/longAD4.jpg); margin-bottom: 10px;}
+.content-bottom-pic3 {width: 1226px; height: 119px; background: url(../img/longAD5.jpg); margin-bottom: 10px;}
+.content-bottom-pic4 {width: 1226px; height: 119px; background: url(../img/longAD6.jpg); margin-bottom: 10px;}
+.content-bottom-pic5 {width: 1226px; height: 119px; background: url(../img/longAD7.jpg); margin-bottom: 10px;}
+
+
+.content-bottom-menu2 {width: 1226px; height: 50px; background: #fff; margin: 12px 0;}
+.content-bottom-shop3 {width: 1226px; height: 300px;}
+.content-bottom-shop3-1 {width: 235px; height: 300px; float: left; margin-right: 12.7px; background: pink;}
+.content-bottom-shop3-2 {width: 235px; height: 300px; float: left; margin-right: 12.7px; background: #fff;}
+.content-bottom-shop3-3 {width: 235px; height: 300px; float: left; margin-right: 12.7px; background: #fff;}
+.content-bottom-shop3-4 {width: 235px; height: 300px; float: left; margin-right: 12.7px; background: #fff;}
+.content-bottom-shop3-5 {width: 235px; height: 300px; float: left; background: #fff;}
+
+.footer-top {width: 100%; height: 100px;}
+
+
+
+
+
+.footer-bottom {width: 100%; height: 100px; background: #ccc;}
+>>>>>>> 73e4acd0d713f43a6924f20e7a19dc7955a3a0a6
