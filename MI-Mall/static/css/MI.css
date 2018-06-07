@@ -13,16 +13,55 @@ ul {list-style: none;}
 .content-ul-1 {float: right; line-height: 40px;}
 .content-ul-1 li {float: left;}
 .content-ul-1 li a {color: #b0b0b0; font-size: 14px;}
-.content-li-1 a:hover {color: #fff;}
+.content-ul-1 a:hover {color: #fff;}
 .content-ul-1 li span {color: #424242; font-size: 14px; margin: 0px 5px;}
-.content-li-2 {width: 90px; height: 40px; margin: 0 5px; text-align: center;  background: #424242;}
-.content-li-2:hover {background: #fff;}
-.content-li-2:hover a {color: #ff6700;}
+.content-li-1 {width: 120px; height: 40px;  text-align: center;  background: #424242; color: #b0b0b0; position: relative; margin-left: 10px;}
+.content-li-1:hover {color: #ff6700; background: #fff;}
+.content-li-1:hover div {display: block;}
+.content-li-div {width: 300px; height: 90px; background: #fff; position: absolute; right: 0px; display: none; color: #ccc;}
+
+
+
+
 .content-top {width: 100%; margin-bottom: 15px;}
 
 
+
+/*导航2*/
+.content-menu {width: 1226px; height: 66px; margin: 10px auto; position: relative;}
+.content-menu-pic {float: left;}
+.content-menu-pic1 {margin: 5px 10px 5px 0;}
+.content-menu-ul {float: left;  height: 66px; line-height: 66px; margin-left: 10px;}
+.content-menu-ul li {float: left; margin-right: 15px; font-size: 17px;}
+.content-menu-ul li:hover {color: #ff6700;}
+.content-menu-form {float: right; margin: 7px 0; height: 52px;}
+.content-menu-form input {height: 50px; width: 245px; float: left; border: 1px solid #ccc; border-right: none; }
+.button {height:50px ;width: 50px; float: left; border: 1px solid #ccc; position: relative;}
+.content-menu-form-a {position: absolute; width: 120px; height: 20px; font-size: 12px; right: 50px; margin: 20px 0;}
+.content-menu-form-a a {color: #b0b0b0; background: #eeeeee; padding: 2px;}
+.content-menu-form-a a:hover {background: #ff6700; color: #fff;}
+
+.button i {position: absolute; right: 15px;top: 15px; font-size: 20px; color: #424242;}
+.button:hover {background: #ff6700;}
+.button:hover i {color: #fff;}
+
+/*下拉-小米手机*/
+.mi-phone {
+	width: 100%; 
+	height: 230px; 
+	border-bottom: 1px solid #ccc; 
+	border-top: 1px solid #ccc; position: 
+	absolute; right: 0px; background: #fff; 
+	display: none; 
+	margin-top: 10px;
+}
+.mi-phone-li:hover div {
+	display: block;
+}
+
+
 .content {width: 1226px; margin: 0 auto;}
-.content-menu {width: 1226px; height: 90px; background: pink; margin: 10px auto;}
+
 .content-pic {width: 1226px; height: 460px; background: url(../img/mi.jpg);}
 .content-shop {width: 1226px; height: 170px; margin-top: 10px;}
 .content-shop-1 {width: 248px; height: 170px; background: #ccc; float: left; margin-right: 10px;}
